@@ -1,6 +1,6 @@
 # Sales-Analysis-Using-MS-SQL-and-Visualization
 
-![](Presentation1.PNG)
+![](Presentation1.png)
 ## INTRODUCTION
 I obtained this data from kaggle where I recently completed a data analysis project using SQL to examine the Sales dataset. The project involve the following steps:
 
