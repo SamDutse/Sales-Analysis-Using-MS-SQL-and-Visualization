@@ -1,4 +1,4 @@
-# Sales-Analysis-Using-MS-SQL-and-Visualization
+# Bikes, Accessories and Clothing Product Sales Analysis
 
 ![](Presentation1.png)
 ## INTRODUCTION
