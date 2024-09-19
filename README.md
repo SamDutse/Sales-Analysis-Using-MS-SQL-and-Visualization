@@ -1,6 +1,6 @@
 # Bikes, Accessories and Clothing Product Sales Analysis
+# ![Presentation1](https://github.com/user-attachments/assets/672d59ba-fb17-4a94-a59c-fa85f7fb1d06)
 
-![](Presentation1.png)
 ## INTRODUCTION
 I obtained this data from kaggle where I recently completed a data analysis project using SQL to examine the Sales dataset. The project involve the following steps:
 
@@ -15,14 +15,18 @@ By performing these queries and analyzing the results, I was able to gain valuab
 I also perform further analysis using pivot table and application of some formulas to get more insight and understand other trends and patterns which I visualize
 ## DATA VISUALIZATION
 Through this project, I demonstrated my ability to use SQL to extract meaningful insights from complex data sets, and my skills in data analysis, visualization, and communication.
-![](Slide1.PNG)
-Sales KPI and demographics
-![](Slide2.PNG)
-Sales by Location
-![](Slide3.PNG)
-Sales Category, SubCategory and Product
-![](Slide4.PNG)
-Sales by Time
+## Sales KPI and demographics
+# ![Slide1](https://github.com/user-attachments/assets/fa2c287a-e673-42bc-aa64-5ba5dc5c9496)
+
+## Sales by Location
+# ![Slide2](https://github.com/user-attachments/assets/62e0e60f-c507-48ba-8ae9-56cfd7a11b8f)
+
+## Sales by: Category, SubCategory and Product
+# ![Slide3](https://github.com/user-attachments/assets/5b8f8857-9386-4117-98c6-2ca078fecdcd)
+
+## Sales by Time
+# ![Slide4](https://github.com/user-attachments/assets/b47fb00d-f506-4a37-adf2-df3382b1b73d)
+
 
 ## RECOMMENDATIONS
 There is a 38% profit return! Based on my analysis, I would like to offer the following recommendations:
